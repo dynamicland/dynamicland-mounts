@@ -14,5 +14,5 @@ Dynalamp-style mount is connected to:
     - 3x 1/4" bolts, 3/4" long, with washers
 
 Less often used "magic arm" variant:
-- Manfrotto plate (for "magic arm" variant)
+- Manfrotto plate
     - 1x 3/8" bolt, 1/2" long, with a washer
